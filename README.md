@@ -7,7 +7,7 @@ This mini project is about building one index page of a website. It is an excers
 
 ## 🥸🥸About this Website🥸🥸: 
 
-This is a index website of a real estate broker company. It will guide the user or the client of the company to check all the available houses in the market. each house has detailed infomation attached.
+This is a index website of a real estate broker company. It will guide the user or the client of the company to create personal account in the website , check all the available houses in the market,save favorite houses and contact the agents if they have any questions. Each house has detailed infomation attached.
  
  
 ## 🧐🧐How to run the project🧐🧐:
