@@ -1,0 +1,119 @@
+
+
+#abc {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  background-image: url("footer.png");  
+  background-repeat: repeat-y;
+
+  }
+  
+  li {
+      
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+  }
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+img {
+    width: 80%;
+    height: 20%;
+  } 
+
+#header {
+	height: 50px;
+	width: 100%;
+  position: absolute;
+}
+
+#main {
+	height: 800;
+	max-width: 100%;
+	position: absolute;
+	margin-top: 10%;
+}
+
+#footer {
+	height: 100px;
+    width: 100%;
+    position: absolute;
+    margin-top: 70%;
+}
+
+h1 {
+   
+  font-family: 'Abril Fatface', cursive;    
+  }
+h6 {
+   
+    font-family: 'Abril Fatface', cursive;    
+    }
+h5{
+  text-align: center;
+}
+
+
+#a5 {
+  border-width: 0.5cm;
+}
+footer{
+  background-image: url("footer.png");
+}
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.6;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/* Twitter */
+.fa-vimeo {
+  background: #55dcee;
+  color: rgb(255, 255, 255);
+}
+
+.fa-snapchat {
+  background: #ebee55;
+  color: rgb(255, 255, 255);
+}
+
+/* Twitter */
+.fa-instagram {
+  background: #ee55c0;
+  color: rgb(255, 255, 255);
+}
