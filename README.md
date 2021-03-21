@@ -6,22 +6,22 @@ This mini project is about building one index page of a website. It is an excers
 
 
 
-#About this Website: 
-  This is a index website of a real estate broker company. It will guide the user or the client of the company to check all the available houses in the market. each house has detailed infomation attached.
- 
+##🥸🥸About this Website🥸🥸: 
 
-#How to run the project:
+This is a index website of a real estate broker company. It will guide the user or the client of the company to check all the available houses in the market. each house has detailed infomation attached.
+ 
+##🧐🧐How to run the project🧐🧐:
 
 Save all the documents in one directory and open the html document in the file with any IDE or default web browser.
 
-#Challenges in this project:
+##🤯🤯Challenges in this project🤯🤯:
 
 1.the structure was not well-sized, lots of unneccessary margin appeared in the website when i zoom out the page. Fixed with adding footer and header in css style document
 2.The body part is kind hard to seprate the houses evenly when I use li. Fixed with the div class ='row'
 
-#Update in the future:
-1. add company logo in the header as a back ground.
-2. add each responsible agent under the house detail and add link for the agent's own website
-3. add search bar in the navigation bar
-4. make the body larger to do this might adding one more row of houses
-5. update the back ground make the website looks fancier 
+##🚀🚀Update in the future🚀🚀:
+1🆙. add company logo in the header as a back ground.
+2🆙. add each responsible agent under the house detail and add link for the agent's own website
+3🆙. add search bar in the navigation bar
+4🆙. make the body larger to do this might adding one more row of houses
+5🆙. update the back ground make the website looks fancier 
